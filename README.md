@@ -1,3 +1,4 @@
+🐍 Python Notes
 Welcome to this repository!
 This repo contains well-structured Python notes designed to help learners understand Python concepts clearly and effectively. Whether you’re just starting out or revising key topics, these notes aim to make learning Python simple and practical.
 
