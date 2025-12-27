@@ -1,2 +1,0 @@
-YOlcome to the world of the programming.
-Next I will move to the reactJs
